@@ -10,3 +10,34 @@ This project explores a new direction by leveraging photoacoustics, which conver
 -Deeper penetration in scattering media
 
 -Compatibility with microfluidic environments
+
+🔬 What We Did
+We investigated the PACD response of two optically active systems:
+
+D-glucose in the NIR-II range (1400–1600 nm)
+
+Naproxen (a common NSAID) in the 1300–1600 nm range
+
+Measurements were performed using a microfluidic device with a 700 µm channel and a sample volume of only 0.3 mL.
+
+🔧 Applications and Future Work
+The combination of optical and acoustic methods paves the way for:
+
+-Label-free detection in complex biological environments
+
+-Miniaturized lab-on-a-chip systems for biosensing and diagnostics
+
+-New tools in analytical chemistry and nanophotonics
+
+Feel free to explore the code, data, and experimental details provided in this repository.
+
+
+
+
+
+
+
+
+
+
+
