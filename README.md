@@ -21,6 +21,7 @@ Naproxen (a common NSAID) in the 1300–1600 nm range
 Measurements were performed using a microfluidic device with a 700 µm channel and a sample volume of only 0.3 mL.
 
 🔧 Applications and Future Work
+
 The combination of optical and acoustic methods paves the way for:
 
 -Label-free detection in complex biological environments
