@@ -31,7 +31,7 @@ The combination of optical and acoustic methods paves the way for:
 -New tools in analytical chemistry and nanophotonics
 
 Feel free to explore the code, data, and experimental details provided in this repository.
-
+For any queries or doubts, pull a request or please write to: Swathi Padmanabhan: swathip@iisc.ac.in or Prof. Jaya Prakash: jayap@iisc.ac.in
 
 
 
